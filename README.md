@@ -18,8 +18,4 @@ When the switch in the app is toggled, the `AppThemeState`'s state changes, and 
 
 Below are the previews of the app in light mode and dark mode:
 
-Light mode:
-![Light mode](./Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-08-04%20at%2018.44.06.png)
-
-Dark mode:
-![Dark mode](./Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-08-04%20at%2018.44.10.png)
+<img src="./Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-08-04%20at%2018.44.06.png" width="200px"> <img src="./Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-08-04%20at%2018.44.10.png" width="200px">
