@@ -1,6 +1,6 @@
 # Flutter Theme Switcher
 
-This project is a simple implementation of a theme switcher for a Flutter application. The application uses the Riverpod package for state management. 
+This project is a simple implementation of a theme switcher for a Flutter application. The application uses the Riverpod package for state management.
 
 ## Overview
 
@@ -19,8 +19,7 @@ When the switch in the app is toggled, the `AppThemeState`'s state changes, and 
 Below are the previews of the app in light mode and dark mode:
 
 Light mode:
-![Light mode](Simulator Screenshot - iPhone 14 Pro Max - 2023-08-04 at 18.44.06.png)
+![Light mode](./Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-08-04%20at%2018.44.06.png)
 
 Dark mode:
-![Dark mode](Simulator Screenshot - iPhone 14 Pro Max - 2023-08-04 at 18.44.10.png)
-
+![Dark mode](./Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-08-04%20at%2018.44.10.png)
